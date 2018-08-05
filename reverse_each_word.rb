@@ -6,5 +6,3 @@ def reverse_each_word(sentence) #example using .each method
   end
   reversed_words.join(" ")
 end
-
-puts reverse_each_word("Hello there, and how are you?")
